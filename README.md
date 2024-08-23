@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
-    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="MasterHead" style="width:90%; max-width:1000px; height:auto;">
-  </a>
-</p>
-
 
 <h1 align="center">Hi 👋, I'm Shivam Prakash</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
