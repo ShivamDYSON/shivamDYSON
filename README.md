@@ -1,4 +1,3 @@
-img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"
 <h1 align="center">Hi 👋, I'm Shivam Prakash</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/vector-illustration-man-with-beard-glasses-working-laptop-online-support-concept_1142-111168.jpg"
